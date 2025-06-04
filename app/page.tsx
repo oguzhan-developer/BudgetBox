@@ -25,7 +25,7 @@ export default function Home() {
           </CardHeader>
           <CardContent>
             <div className="flex justify-between items-center">
-              <Image src={"/banner.jpg"} alt="banner" width={500} height={153} className=" rounded-xl" />
+              <Image src={"/banner.jpg"} alt="banner" width={500} height={153} className=" rounded-md" />
               <div className="flex items-center m-auto" >
                 <form>
                   <div className="flex flex-col gap-6">
